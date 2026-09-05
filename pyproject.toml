@@ -10,3 +10,14 @@ dependencies = [
     "langchain-community>=0.4.2",
     "langchain-core>=1.6.2",
 ]
+
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project.scripts]
+agentic_terminal = "agentic_terminal.main:main" 
+

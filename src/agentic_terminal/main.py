@@ -1,5 +1,4 @@
-# from agentic_terminal.tools import mcp
-from tools import mcp
+from agentic_terminal.tools import mcp
 
 def main():
     mcp.run(transport = 'stdio')
