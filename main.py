@@ -1,5 +1,8 @@
+from src.agentic_terminal.tools import mcp
+
+
 def main():
-    print("Hello from mcp-pypi!")
+    mcp.run()
 
 
 if __name__ == "__main__":
