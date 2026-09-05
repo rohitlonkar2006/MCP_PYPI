@@ -1,0 +1,4 @@
+fastmcp
+langchain
+langchain-core
+langchain-community
