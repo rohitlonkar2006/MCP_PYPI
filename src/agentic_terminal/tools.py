@@ -10,7 +10,6 @@ from fastmcp import FastMCP
 
 mcp = FastMCP("agentic_terminal")
 
-
 def _run_process(command, *, shell: bool = False) -> str:
     """Run a subprocess and return a single string of stdout/stderr."""
     result = subprocess.run(
