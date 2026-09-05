@@ -1,0 +1,2 @@
+[console_scripts]
+agentic_terminal = agentic_terminal.main:main

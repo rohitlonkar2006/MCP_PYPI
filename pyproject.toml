@@ -1,5 +1,5 @@
 [project]
-name = "agentic_terminal"
+name = "free-agentic-terminal"
 version = "0.1.0"
 description = "An MCP Which adds the terminal capabilities to an agent."
 readme = "README.md"

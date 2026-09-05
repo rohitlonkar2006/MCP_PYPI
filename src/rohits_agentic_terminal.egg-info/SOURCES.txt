@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/agentic_terminal/__init__.py
+src/agentic_terminal/main.py
+src/agentic_terminal/tools.py
+src/rohits_agentic_terminal.egg-info/PKG-INFO
+src/rohits_agentic_terminal.egg-info/SOURCES.txt
+src/rohits_agentic_terminal.egg-info/dependency_links.txt
+src/rohits_agentic_terminal.egg-info/entry_points.txt
+src/rohits_agentic_terminal.egg-info/requires.txt
+src/rohits_agentic_terminal.egg-info/top_level.txt

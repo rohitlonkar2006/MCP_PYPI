@@ -1,0 +1,4 @@
+fastmcp>=4.0.3
+langchain>=1.4.0
+langchain-community>=0.4.2
+langchain-core>=1.6.2
